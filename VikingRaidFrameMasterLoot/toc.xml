@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Vikinghug" APIVersion="8" Name="VikingRaidFrameMasterLoot" Description="" Version="0.1">
+    <Form Name="VikingRaidFrameMasterLoot.xml"/>
+    <Script Name="VikingRaidFrameMasterLoot.lua"/>
+    <ReplaceAddon Name="RaidFrameMasterLoot"/>
+</Addon>
