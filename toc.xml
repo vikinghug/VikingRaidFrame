@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Vikinghug" APIVersion="8" Name="VikingRaidFrameBase" Description="" Version="0.1">
+    <Form Name="VikingRaidFrameBase.xml"/>
+    <Script Name="VikingRaidFrameBase.lua"/>
+    <ReplaceAddon Name="RaidFrameBase"/>
+</Addon>
