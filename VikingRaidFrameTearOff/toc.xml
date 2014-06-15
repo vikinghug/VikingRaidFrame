@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Vikinghug" APIVersion="8" Name="VikingRaidFrameTearOff" Description="" Version="0.1">
+    <Form Name="VikingRaidFrameTearOff.xml"/>
+    <Script Name="VikingRaidFrameTearOff.lua"/>
+    <ReplaceAddon Name="RaidFrameTearOff"/>
+</Addon>
